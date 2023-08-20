@@ -4,12 +4,12 @@
 1. aichatos
 
 
-    [AIchatos](https://c.binjie.fun/)是一个免费的chatgpt镜像网站，由binjie09开发的网站，现在chatgpt在国内无法访问，这个网站却免费。
+ **AIchatos**是一个免费的chatgpt镜像网站，由binjie09开发的网站，现在chatgpt在国内无法访问，这个网站却免费,网址是https://c.binjie.fun/
 
 
 
 
 
-2. FakeGPT
+1. FakeGPT
 
    **如果你有账号的话可以去**https://chat.zhile.io/auth/login **这个网站可以在国内不用梯子与chatgpt聊天，不仅支持gpt3.5，如果你的账号是会员账号的话还支持gpt4.0。**
