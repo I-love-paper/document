@@ -2,7 +2,7 @@
 **现在网络上的chatgpt镜像站很多要么收费，要么有使用次数**
 **所以我便找了几个免费使用chatgpt的网站(国内可用)**
 1. aichatos
-    **AIchatos**是一个免费的chatgpt镜像网站，由binjie09开发的网站，现在chatgpt在国内无法访问，这个网站却免费。
+    **[AIchatos](https://c.binjie.fun/)**是一个免费的chatgpt镜像网站，由binjie09开发的网站，现在chatgpt在国内无法访问，这个网站却免费。
 
 
 
