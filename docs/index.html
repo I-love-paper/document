@@ -66,6 +66,10 @@
     // facebook-like distraction free mode
     distractionFreeMode: false
   })
+  var ele = document.getElementsByClassName('toc-nav')[0]
+  var newele = document.createElement('div')
+  newele.id="gitalk-container"
+  ele.parentNode.insertBefore(newele, undefined)
   gitalk.render("gitalk-container")
 </script>
 </body>
