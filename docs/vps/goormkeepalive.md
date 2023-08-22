@@ -6,7 +6,9 @@
 ## 方法
 运行以下命令
 
-`wget -q https://github.com/ShadowObj/GoormKeepAlive/raw/main/script.sh && chmod +x script.sh && ./script.sh`
+```Shell
+wget -q https://github.com/ShadowObj/GoormKeepAlive/raw/main/script.sh && chmod +x script.sh && ./script.sh
+```
 然后输入邮箱、密码、terminal的网址
 ## 测试
 
