@@ -2,7 +2,7 @@
 **在GitHub上有一个公益项目 [GPT-API-free](https://github.com/chatanywhere/GPT_API_free)**
 **感谢项目作者** **chatanywhere** **为我们提供免费的API服务**
 
-![free](/free/API.jpg)
+![free](https://cdn.jsdelivr.net/gh/I-love-paper/image/image/free.jpg)
 
 
 
@@ -10,7 +10,7 @@
 
 **除了免费API** **GPT-API-free** **还提供了付费的API服务**
 
-![pay](/pay/pay.jpg)
+![pay](https://cdn.jsdelivr.net/gh/I-love-paper/image/image/pay.jpg)
 
 # API的限制
 
