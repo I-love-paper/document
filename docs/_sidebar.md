@@ -5,5 +5,3 @@
 * VPS
   * [goorm](/vps/goorm)
   * [goormkeepalive](/vps/goormkeepalive)
-* 代理
-  * [搭建](/proxy/proxy)
